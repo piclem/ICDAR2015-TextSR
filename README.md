@@ -8,7 +8,7 @@ For more details, see: https://projet.liris.cnrs.fr/sr2015/
 
 ### Download
 
-The dataset can be downloaded from the current repository as `.zip` archive.
+The dataset can be downloaded from the current repository as a `.zip` archive, or by [clicking here](https://github.com/piclem/ICDAR2015-TextSR/blob/master/ICDAR2015-TextSR-dataset.zip?raw=true).
 
 ### Citation
 
