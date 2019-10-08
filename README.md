@@ -11,6 +11,6 @@ For more details, see: https://projet.liris.cnrs.fr/sr2015/
 The dataset can be downloaded from the current repository as `.zip` archive.
 
 ### Citation
-```
-Peyrard, C., Baccouche, M., Mamalet, F., & Garcia, C. (2015, August). ICDAR2015 competition on text image super-resolution. In 2015 13th International Conference on Document Analysis and Recognition (ICDAR) (pp. 1201-1205). IEEE.
-```
+
+> Peyrard, C., Baccouche, M., Mamalet, F., & Garcia, C. (2015, August). ICDAR2015 competition on text image super-resolution. In 2015 13th International Conference on Document Analysis and Recognition (ICDAR) (pp. 1201-1205). IEEE.
+
